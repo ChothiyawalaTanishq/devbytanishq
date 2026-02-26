@@ -10,7 +10,7 @@ const socialLinks = [
     name: "GitHub", 
     icon: Github, 
     href: "https://github.com/CodeHellBoy", 
-    username: "@CodeHellBoy",
+    username: "@ChothiyawalaTanishq",
     color: "from-gray-600 to-gray-400" 
   },
   { 
