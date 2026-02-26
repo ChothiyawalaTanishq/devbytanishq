@@ -123,7 +123,7 @@ const TextReveal = ({ children, delay = 0 }: { children: string; delay?: number 
 
 // Role typing animation
 const RoleTyping = () => {
-  const roles = ["AI/ML Engineer", "Generative AI Developer", "Full-Stack Developer", "Problem Solver"];
+  const roles = ["AI/ML Engineer", "Generative AI Developer", "Backend Developer", "Problem Solver"];
   const [currentRole, setCurrentRole] = useState(0);
   const [displayText, setDisplayText] = useState("");
   const [isDeleting, setIsDeleting] = useState(false);

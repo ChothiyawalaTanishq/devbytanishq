@@ -23,17 +23,6 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Spotify Clone",
-    description: "A dynamic, Spotify-inspired music streaming web application with seamless navigation between artists, albums, and playlists. Designed an intuitive interface to enhance the user's listening experience.",
-    category: "Frontend",
-    tags: ["HTML", "CSS", "JavaScript"],
-    image: projectSpotify,
-    year: "2024",
-    featured: true,
-    githubUrl: "https://github.com/CodeHellBoy/Spotify-Clone",
-  },
-  {
-    id: 2,
     title: "AI-Powered LMS",
     description: "Full-stack Learning Management System with responsive UI, quiz modules, dynamic course listings, AI chatbot integration, user authentication, and payment workflows.",
     category: "Full Stack",
@@ -44,7 +33,7 @@ const projects: Project[] = [
     githubUrl: "https://github.com/CodeHellBoy/ai-learninghub",
   },
   {
-    id: 3,
+    id: 2,
     title: "AirQuality Monitoring System",
     description: "IoT-based air quality monitoring system using Arduino and drone technology for real-time environmental data collection and analysis.",
     category: "IoT",
@@ -52,6 +41,17 @@ const projects: Project[] = [
     image: projectAirquality,
     year: "2024",
     githubUrl: "https://github.com/CodeHellBoy/Arduino-AirQuality-Drone",
+  },
+  {
+    id: 3,
+    title: "Spotify Clone",
+    description: "A dynamic, Spotify-inspired music streaming web application with seamless navigation between artists, albums, and playlists. Designed an intuitive interface to enhance the user's listening experience.",
+    category: "Frontend",
+    tags: ["HTML", "CSS", "JavaScript"],
+    image: projectSpotify,
+    year: "2024",
+    featured: true,
+    githubUrl: "https://github.com/CodeHellBoy/Spotify-Clone",
   },
   {
     id: 4,
