@@ -48,6 +48,7 @@ const skillCategories: SkillCategory[] = [
       { name: "PHP", icon: "🐘" },
       { name: "MySQL", icon: "🗄️" },
       { name: "Flask", icon: "⚗️" },
+      { name: "FastAPI", icon: "🚀" },
       { name: "Git", icon: "📂" },
     ],
   },
