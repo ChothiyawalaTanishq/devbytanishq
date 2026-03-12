@@ -29,7 +29,7 @@ const projects: Project[] = [
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"],
     image: projectLMS,
     year: "2025",
-    featured: true,
+    // featured: true,
     githubUrl: "https://github.com/CodeHellBoy/ai-learninghub",
   },
   {
