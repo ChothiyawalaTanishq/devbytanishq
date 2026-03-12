@@ -50,7 +50,7 @@ const projects: Project[] = [
     tags: ["HTML", "CSS", "JavaScript"],
     image: projectSpotify,
     year: "2024",
-    featured: true,
+    // featured: true,
     githubUrl: "https://github.com/CodeHellBoy/Spotify-Clone",
   },
   {
